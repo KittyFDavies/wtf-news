@@ -1,10 +1,6 @@
-# README TEST
+# WTFJHT News
 
-# Wtf::News
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/wtf/news`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to WTFJHT News, a CLI that shows the top articles as found on news aggregtor "What The F** Just Happened Today?". It is a 
 
 ## Installation
 
@@ -24,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Upon running the program, user will be presented with numbered list of articles. Type the number to get a short overview of the article and "Open" to open the full article directly in one's browser.
 
 ## Development
 
