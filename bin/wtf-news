@@ -1,5 +1,6 @@
-#!/usr/bin/env/ruby
+#!/usr/bin/env ruby
 
 require relative "../lib/wtf_command_line_interface.rb"
 
-WTF_CLI
+
+puts "Hello, World!"
